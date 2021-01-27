@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Group 4'
-SITENAME = 'The Phoenix Project'
+SITENAME = 'The Principles of DevOps'
 SITEURL = ''
 
 PATH = 'content'
@@ -19,11 +19,6 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 THEME = 'medius'
 TYPOGRIFY = True
-# Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('Howdy we', '#'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),

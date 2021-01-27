@@ -4,8 +4,8 @@ Modified: 2010-12-05 19:30
 Category: Characters
 Tags: it-operations,characters,dev-ops
 Slug: bill-vp-it-operations
-Authors: Group 4, Dev Team
+Authors: Dev Team
 Summary: Who is Bill?
 
-Bill Palmer is the VP of IT operations in the short story The Phoenix Project which tells the story of work in the IT space.
+Bill Palmer is the VP of IT operations in the short story The Phoenix Project which tells the story of work in the IT space. Bill is responsible for ensuring that IT delivers on work projects and faces trouble because of the business IT workflow.
 
